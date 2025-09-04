@@ -1,0 +1,1 @@
+// This file has been removed - ImageDebugger component is no longer needed
